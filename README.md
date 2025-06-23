@@ -39,5 +39,6 @@ App de escritorio que muestra zonas horarias del mundo en tiempo real. Enfocada 
 📐 Fusion 360 | Diseño CAD  
 Diseño y publicación de modelos 3D propios. Exploración estética y funcional de piezas impresas para proyectos personales y encargos.
 
-![Uploading ChatGPT Image 23 jun 2025, 10_24_07 a.m..png…]()
+![8bitgithubbanner](https://github.com/user-attachments/assets/0273a114-9825-4646-a373-85a76a9698f7)
+
 
