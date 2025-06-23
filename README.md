@@ -39,6 +39,7 @@ App de escritorio que muestra zonas horarias del mundo en tiempo real. Enfocada 
 📐 Fusion 360 | Diseño CAD  
 Diseño y publicación de modelos 3D propios. Exploración estética y funcional de piezas impresas para proyectos personales y encargos.
 
-![8bitgithubbanner](https://github.com/user-attachments/assets/0273a114-9825-4646-a373-85a76a9698f7)
+![8bitgithubbanner](https://github.com/user-attachments/assets/76c9496f-d505-4ded-905a-fa578784d037)
+
 
 
